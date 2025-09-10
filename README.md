@@ -27,7 +27,7 @@ This Firebase Cloud Function listens for new documents created in the BMEMembers
 1. Clone this Repository
 
    ```
-   git clone https://github.com/yourusername/firestore-gsheets-integration-function.git
+   git clone https://github.com/BrightMindEnrichment/firestore-gsheets-integration-function.git
    cd firestore-gsheets-integration-function
    ```
 2. Create and Configure a Service Account
